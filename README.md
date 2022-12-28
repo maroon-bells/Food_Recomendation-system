@@ -39,7 +39,7 @@ $ pip install streamlit
 $ streamlit run app.py
 ```
 
-## Contributors
+## Contributor
 
 <table>
 <tr align="center">
@@ -47,50 +47,13 @@ $ streamlit run app.py
 
 <td>
 
-Ayush Jindal
+Mokhinur Abdurakhimova
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/64908612?s=400&u=0badfa617b6e46c5da46f5105f8605bcbeb12a50&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fmohinurabdurahimova%2Ffollowers&psig=AOvVaw2tiFElH15h5wGL8TN8Q6fa&ust=1672338527581000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCMj0i9H4nPwCFQAAAAAdAAAAABAD"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/ayushjindal23"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/ayushjindal23/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 
-
-<td>
-
-Joshikha M
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77103140?s=400&u=27715b653bfec4f5723e48fc5543662a11369eb8&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/mjoshikha"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/mjoshikha1111/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
-
-
-
-<td>
-
-Suvodeep Sinha
-
-<p align="center">
-<img src = "https://avatars.githubusercontent.com/u/52796258?s=400&u=ac91850aac9a86d6124283d5435ad0a1a7cdbe53&v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/Suvoo"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
 </td>
 </tr>
   </table>

@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://dscommunity.in">
+
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
-</a>
+
 	<h2 align="center"> Food Recomendation System </h2>
 	<h4 align="center"> This is a machine learning web app, when executed, the client gets to choose a food item based on his own liking, and we recommend 10 more such similar foods through our recommendation system. Our system utilizes item-based collaborative filtering to implement the same. We provide a variety of cuisines to choose from with vegetarian/non-vegetarian options as well. <h4>
 </p>
@@ -42,17 +42,13 @@ $ streamlit run app.py
 ## Contributor
 
 <table>
-<tr align="center">
+<tr>
 
 
 <td>
 
 Mokhinur Abdurakhimova
 
-<p align="center">
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fmohinurabdurahimova%2Ffollowers&psig=AOvVaw2tiFElH15h5wGL8TN8Q6fa&ust=1672338527581000&source=images&cd=vfe&ved=0CBEQjhxqFwoTCMj0i9H4nPwCFQAAAAAdAAAAABAD"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
 
 </td>
 </tr>

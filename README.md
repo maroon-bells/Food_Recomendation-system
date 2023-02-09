@@ -58,6 +58,6 @@ Mokhinur Abdurakhimova
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
-	Made with :heart: for <a href="https://www.hit.ac.il/en">HIT Course Project</a>
+	Made with :heart: 
 </p>
 
